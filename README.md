@@ -1,6 +1,6 @@
 # CSS Grid 101
 
-cómo crear un diseño de cuadrícula (grid layout) completamente responsivo y fácil de implementar utilizando HTML y CSS puro.
+Cómo crear un diseño de cuadrícula (grid layout) completamente responsivo y fácil de implementar utilizando HTML y CSS puro.
 
 📚 Perfecto para aprender los fundamentos del CSS Grid y aplicarlos en tus proyectos.
 ## 📸 Demo
